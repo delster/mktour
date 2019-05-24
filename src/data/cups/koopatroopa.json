@@ -1,0 +1,9 @@
+{
+  "name": "Koopa Troopa Cup",
+  "tracks": [
+    "N64 Koopa Troopa Beach",
+    "GCN Dino Dino Jungle",
+    "SNES Choco Island 2"
+  ],
+  "challenge": "Don't crash"
+}

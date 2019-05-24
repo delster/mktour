@@ -1,0 +1,9 @@
+{
+  "name": "Mario Cup",
+  "tracks": [
+    "SNES Mario Circuit 1",
+    "N64 Kalimari Desert",
+    "3DS Mario Circuit"
+  ],
+  "challenge": "Race through the rings"
+}

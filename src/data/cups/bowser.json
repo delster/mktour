@@ -1,0 +1,9 @@
+{
+  "name": "Bowser Cup",
+  "tracks": [
+    "GBA Bowser Castle 1",
+    "N64 Kalimari Desert",
+    "N64 Koopa Troopa Beach"
+  ],
+  "challenge": "vs. Mega Bowser"
+}
